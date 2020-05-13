@@ -25,6 +25,8 @@ Listing some of the ideas in mind. Each of these need to be expanded.
 14. internship opportunities
 15. outreach
 16. history of Indian Astronomy
+17. Other useful useful links - NYRIA, AAS register, RAS register, women in astronomy, acknowledgement generator, etc.
+
 
 ```markdown
 Syntax highlighted code block
