@@ -26,6 +26,7 @@ Listing some of the ideas in mind. Each of these need to be expanded.
 15. outreach
 16. history of Indian Astronomy
 17. Other useful useful links - NYRIA, AAS register, RAS register, women in astronomy, acknowledgement generator, etc.
+18. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
 
 
 ```markdown
