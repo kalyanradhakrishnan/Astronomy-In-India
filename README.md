@@ -29,7 +29,7 @@ Listing some of the ideas in mind. Each of these need to be expanded.
 18. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
 
 ### Astronomy Institutes in India
-1. [IUCAA](https://www.iucaa.in
+1. [IUCAA](https://www.iucaa.in)
 2. [IIA](https://www.iiap.res.in)
 3. [ARIES](https://www.aries.res.in)
 4. [NCRA](http://www.ncra.tifr.res.in/ncra/main)
