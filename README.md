@@ -29,7 +29,7 @@ Listing some of the ideas in mind. Each of these need to be expanded.
 18. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
 
 ### Astronomy Research Institutes in India
-This least is in no way exhaustive, and currently under development.
+This list is in no way complete. We are updating this list to the best of our knowledge. 
 1. [IUCAA](https://www.iucaa.in) - Inter-University Centre for Astronomy and Astrophysics, Pune, Maharashtra
 2. [IIA](https://www.iiap.res.in) - Indian Institute of Astrophysics, Bangalore, Karnataka
 3. [ARIES](https://www.aries.res.in) - Aryabhatta Research Institute of Observational Sciences, Nainital, Uttrakhand
