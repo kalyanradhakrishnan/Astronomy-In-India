@@ -38,7 +38,7 @@ Listing some of the ideas in mind. Each of these need to be expanded.
 7. [PRL](https://www.prl.res.in/prl-eng/division/aato)
 8. [IIT-Bombay](http://www.phy.iitb.ac.in/en/research/astronomy-cosmology-gravity)
 9. [IISER-Tiupathi](http://www.iisertirupati.ac.in/research/physics/)
-10. [ISER-Pune](http://www.iiserpune.ac.in/research/physics)
+10. [IISER-Pune](http://www.iiserpune.ac.in/research/physics)
 11. [IISc](http://www.physics.iisc.ernet.in/~jap/)
 12. [HRI](http://www.hri.res.in/~astro/index.html)
 13. 
