@@ -23,12 +23,13 @@ Listing some of the ideas in mind. Each of these need to be expanded.
 12. PostDoc ad
 13. events - workshops, conferences
 14. internship opportunities
-15. outreach
+15. outreach - astronomy for school children, public, etc.
 16. history of Indian Astronomy
 17. Other useful useful links - NYRIA, AAS register, RAS register, women in astronomy, acknowledgement generator, etc.
 18. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
 
-### Astronomy Institutes in India
+### Astronomy Research Institutes in India
+This least is in no way exhaustive, and currently under development.
 1. [IUCAA](https://www.iucaa.in) - Inter-University Centre for Astronomy and Astrophysics, Pune, Maharashtra
 2. [IIA](https://www.iiap.res.in) - Indian Institute of Astrophysics, Bangalore, Karnataka
 3. [ARIES](https://www.aries.res.in) - Aryabhatta Research Institute of Observational Sciences, Nainital, Uttrakhand
