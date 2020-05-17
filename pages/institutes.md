@@ -15,4 +15,4 @@ This list is in no way complete. We are updating this list to the best of our kn
 
 More to follow . . .
 
-<a href="index.md" title="Home">About Me</a>
+[Go to HomePage] (index.md)
