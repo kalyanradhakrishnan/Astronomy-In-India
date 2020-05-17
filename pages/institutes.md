@@ -1,4 +1,4 @@
-## Astronomy Research Institutes in India
+# Astronomy Research Institutes in India
 This list is in no way complete. We are updating this list to the best of our knowledge. 
 1. [IUCAA](https://www.iucaa.in) - Inter-University Centre for Astronomy and Astrophysics, Pune, Maharashtra
 2. [IIA](https://www.iiap.res.in) - Indian Institute of Astrophysics, Bangalore, Karnataka
