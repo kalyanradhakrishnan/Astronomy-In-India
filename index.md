@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Welcome to 'Astronomy In India' Webpage
+Astronomy In India
 
 Dear Viewer,
 
