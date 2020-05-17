@@ -2,8 +2,11 @@
 
 Hello Viewer,
 
-We welcome you to this website. The aim of the webpage is to provide you information regarding Astronomy in India. All info in one page is the idea. We will try to provide you everything we can and also update whenever we can. However, in reality, this may not be possible. Therefore, if you have any input, feel free to contact us. Thanks and enjoy.
+We welcome you to this website. The aim of the webpage is to provide you information regarding Astronomy in India. All info in one page is the idea. We will try to provide you everything we can and also update whenever we can. However, in reality, this may not be possible. Therefore, if you have any input, feel free to contact us. Thanks and enjoy. 
 
+We express our sincere gratitude to each and everyone who have contributed to this webapge in the form of providing information, designing this webpage, etc. 
+
+Disclaimer: We encourage the viewers to confirm the validity of the information provided here before. Unfortunately, we may not be able to verify every information. If you find any info not true, please let us know with whatever proof you can.
 
 ## Ideas
 
