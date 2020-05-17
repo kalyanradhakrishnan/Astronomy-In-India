@@ -1,6 +1,6 @@
-# Welcome to Astronomy In India Webpage
+# Welcome to 'Astronomy In India' Webpage
 
-Hello Viewer,
+Dear Viewer,
 
 We welcome you to this website. The aim of the webpage is to provide you information regarding Astronomy in India. All info in one page is the idea. We will try to provide you everything we can and also update whenever we can. However, in reality, this may not be possible. Therefore, if you have any input, feel free to contact us. Thanks and enjoy. 
 
