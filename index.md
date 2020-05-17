@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Astronomy In India
-description: An online information platform for everything related to Astronomy in India.
+description: An information platform for Astronomy in India.
 ---
 # Welcome to 'Astronomy In India' Webpage
 
