@@ -11,7 +11,7 @@ description:
 4. [Job Register by INSPIRE collaboration](https://inspirehep.net/jobs?sort=mostrecent&size=25&page=1&q=&field_of_interest=astro-ph)
 5. [Job Register by hyperspace@gu](https://hyperspace.uni-frankfurt.de/tag/phd/)
 6. [Job Register by The Astronomy Infrastructures Network](https://riastronomia.es/en/contratos-predoctorales/)
-7. To subscribe the [Royal Astronomical Society] job register mailing list(https://ras.ac.uk/membership/RAS-job-list)
+7. To subscribe the [Royal Astronomical Society](https://ras.ac.uk/membership/RAS-job-list) jo.b register mailing list.
 
 More to follow . . .
 
