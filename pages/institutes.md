@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Astronomy In India
+description:
 ---
 # Astronomy Research Institutes in India
 This list is in no way complete. We are updating this list to the best of our knowledge. 
