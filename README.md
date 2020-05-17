@@ -31,6 +31,8 @@ Listing some of the ideas in mind. Each of these need to be expanded.
 17. Other useful useful links - NYRIA, AAS register, RAS register, women in astronomy, acknowledgement generator, etc.
 18. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
 
+More to follow...
+
 ### Astronomy Research Institutes in India
 This list is in no way complete. We are updating this list to the best of our knowledge. 
 1. [IUCAA](https://www.iucaa.in) - Inter-University Centre for Astronomy and Astrophysics, Pune, Maharashtra
