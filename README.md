@@ -1,3 +1,57 @@
+# Welcome to 'Astronomy In India' Webpage
+
+Dear Viewer,
+
+We welcome you to this website. The aim of the webpage is to provide you information regarding Astronomy in India. All info in one page is the idea. We will try to provide you everything we can and also update whenever we can. However, in reality, this may not be possible. Therefore, if you have any input, feel free to contact us. Thanks and enjoy. 
+
+We express our sincere gratitude to each and everyone who have contributed to this webapge in the form of providing information, designing this webpage, etc. 
+
+Disclaimer: We encourage the viewers to confirm the validity of the information provided here before. Unfortunately, we may not be able to verify every information. If you find any info not true, please let us know with whatever proof you can.
+
+## Ideas
+
+Listing some of the ideas in mind. Each of these need to be expanded.
+
+1. Master programs
+2. PhD programs
+3. PostDoc programs
+4. Astronomy institutes
+5. instrumentation in india - ground-based, space-based, x-ray, uv-, visible-, nir-, fir, radio-, solar, etc.
+6. space-missions - past, present, and future
+7. telescopes in india - optical, optical+infrared, radio, solar
+8. observing possibilities
+9. computational facilities
+10. international collaborations - TMT, LIGO, etc.
+11. PhD ad
+12. PostDoc ad
+13. events - workshops, conferences
+14. internship opportunities
+15. outreach - astronomy for school children, public, etc.
+16. history of Indian Astronomy
+17. Other useful useful links - NYRIA, AAS register, RAS register, women in astronomy, acknowledgement generator, etc.
+18. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
+
+More to follow...
+
+### Astronomy Research Institutes in India
+This list is in no way complete. We are updating this list to the best of our knowledge. 
+1. [IUCAA](https://www.iucaa.in) - Inter-University Centre for Astronomy and Astrophysics, Pune, Maharashtra
+2. [IIA](https://www.iiap.res.in) - Indian Institute of Astrophysics, Bangalore, Karnataka
+3. [ARIES](https://www.aries.res.in) - Aryabhatta Research Institute of Observational Sciences, Nainital, Uttrakhand
+4. [NCRA](http://www.ncra.tifr.res.in/ncra/main) - National Centre for Radio Astrophysics, Pune, Maharashtra
+5. [TIFR](https://www.tifr.res.in/~daa/) - Tata Institute of Fundamental Research, Mumbai, Maharashtra
+6. [RRI](http://www.rri.res.in/astronomy-astrophysics.html) - Raman Research Institute, Bangalore, Karnataka
+7. [PRL](https://www.prl.res.in/prl-eng/division/aato) - Physical Research Laboratory, Ahmedabad, Gujarat
+8. [IIT-Bombay](http://www.phy.iitb.ac.in/en/research/astronomy-cosmology-gravity) - Indian Institute of Technology Bombay, Mumbai, Maharashtra
+9. [IISER-Tiupati](http://www.iisertirupati.ac.in/research/physics/) - Indian Institute of Science Education and Research, Tirupati, Andhra Pradesh
+10. [IISER-Pune](http://www.iiserpune.ac.in/research/physics) - Indian Institute of Science Education and Research, Pune, Maharashtra
+11. [IISc](http://www.physics.iisc.ernet.in/~jap/) - Indian Institute of Science, Bangalore, India
+12. [HRI](http://www.hri.res.in/~astro/index.html) - Harish-Chandra Research Institute, Allahabad, Uttar Pradesh
+
+
+More to follow ...
+
+<!-- 
 # The Cayman theme
 
 [![Build Status](https://travis-ci.org/pages-themes/cayman.svg?branch=master)](https://travis-ci.org/pages-themes/cayman) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
@@ -107,3 +161,4 @@ If you'd like to preview the theme locally (for example, in the process of propo
 ### Running tests
 
 The theme contains a minimal test suite, to ensure a site with the theme would build successfully. To run the tests, simply run `script/cibuild`. You'll need to run `script/bootstrap` once before the test script will work.
+-->
