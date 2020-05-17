@@ -1,6 +1,6 @@
----
+<!---
 layout: default
----
+--->
 Astronomy In India
 
 Dear Viewer,
