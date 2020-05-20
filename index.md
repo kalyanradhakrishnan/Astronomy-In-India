@@ -35,7 +35,7 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 
 ### General
 
-1. [PhD and PostDoc advertising](./pages/phd_postdoc_ad.md)
+1. [PhD, PostDoc, and other job ads](./pages/phd_postdoc_ad.md)
 2. [Meetings](./pages/meetings.md) - conferences, workshops, schools, and more.
 
 ### Tools
