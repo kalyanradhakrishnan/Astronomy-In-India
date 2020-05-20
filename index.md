@@ -41,8 +41,11 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 
 ### Miscellaneous 
 
-1. Other useful useful links - NYRIA, women in astronomy, acknowledgement generator, etc.
-2. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
+1. [The (Astronomy) Acknowledgment Generator](http://astrofrog.github.io/acknowledgment-generator/)
+2. [AstroBetter - Tips and Tricks for Professional Astronomers](https://www.astrobetter.com) 
+3. [Women In Astronomy](http://womeninastronomy.blogspot.com)
+4. [NYRIA](https://nyriastronomy.github.io/index.html) - The Network of Young Researchers in Instrumentation for Astronomy
+5. Other useful useful links - NYRIA, women in astronomy, acknowledgement generator, etc.
 
 
 More to follow...
