@@ -49,9 +49,13 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 7. [Open Astronomy Schools](https://open-astronomy-schools.org/tools/) -  collection of high quality educational activities and resources to use in Astronomy education.
 8. [ImageJ](https://imagej.nih.gov/ij/download.html) - an open source image processing program designed for scientific multidimensional images.
 9. [Astronomy Online](http://astronomyonline.org/AstronomySoftware.asp) - links to many astronomy softwares.
+10. [Astrophysics Source Code Library](https://ascl.net) - a free online registry for source codes of interest to astronomers and astrophysicists.
+11. [Astronomy and numerical software source codes](http://www.moshier.net)
+12. [AstroWeb: Astronomy software servers](http://cdsweb.u-strasbg.fr/astroWeb/astroweb/software.html)
 
 ### Astronomy Websites
 1. [Astronomy Online](http://astronomyonline.org/default.asp?Cate=Home)
+2. [AstroWeb](http://cdsweb.u-strasbg.fr/astroWeb/astroweb.html) -  a collection of pointers to astronomically relevant Internet resources.
 
 ### Astronomy Education and Outreach
 1. [education.com](https://www.education.com/resources/earth-science/?referral_url=kidsastronomy.com)
