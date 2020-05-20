@@ -44,8 +44,10 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 2. [JSkyCalc -- A Convenient, Portable Observing Aid](http://www.dartmouth.edu/~physics/labs/skycalc/flyer.html)
 3. [INKSCAPE](https://inkscape.org) - professional vector graphics editor for Windows, Mac OS X and Linux.
 4. [The IDL Astronomy User's Library](https://idlastro.gsfc.nasa.gov)
-5. [Stellarium](https://stellarium.org) - a free open source planetarium for your computer
+5. [Stellarium](https://stellarium.org) - a free open source planetarium for your computer.
 6. [AstronomyTools](https://astronomy.tools) - A collection of useful, free astronomy tools.
+7. [Open Astronomy Schools](https://open-astronomy-schools.org/tools/) -  collection of high quality educational activities and resources to use in Astronomy education.
+8. [ImageJ](https://imagej.nih.gov/ij/download.html) - an open source image processing program designed for scientific multidimensional images.
 
 
 ### Miscellaneous 
