@@ -44,7 +44,7 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 1. [The (Astronomy) Acknowledgment Generator](http://astrofrog.github.io/acknowledgment-generator/)
 2. [AstroBetter - Tips and Tricks for Professional Astronomers](https://www.astrobetter.com) 
 3. [Women In Astronomy](http://womeninastronomy.blogspot.com)
-4. [NYRIA](https://nyriastronomy.github.io/index.html) - The Network of Young Researchers in Instrumentation for Astronomy
+4. [NYRIA - The Network of Young Researchers in Instrumentation for Astronomy](https://nyriastronomy.github.io/index.html)
 5. Other useful useful links - NYRIA, women in astronomy, acknowledgement generator, etc.
 
 
