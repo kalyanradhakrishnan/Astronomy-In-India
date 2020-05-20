@@ -38,6 +38,15 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 1. [PhD and PostDoc advertising](./pages/phd_postdoc_ad.md)
 2. [Meetings](./pages/meetings.md) - conferences, workshops, schools, and more.
 
+### Tools
+
+1. [SAOImage DS9](https://sites.google.com/cfa.harvard.edu/saoimageds9/home) - An image display and visualization tool for astronomical data.
+2. [JSkyCalc -- A Convenient, Portable Observing Aid](http://www.dartmouth.edu/~physics/labs/skycalc/flyer.html)
+3. [INKSCAPE](https://inkscape.org) - professional vector graphics editor for Windows, Mac OS X and Linux.
+4. [The IDL Astronomy User's Library](https://idlastro.gsfc.nasa.gov)
+5. [Stellarium](https://stellarium.org) - a free open source planetarium for your computer
+6. [AstronomyTools](https://astronomy.tools) - A collection of useful, free astronomy tools.
+
 
 ### Miscellaneous 
 
