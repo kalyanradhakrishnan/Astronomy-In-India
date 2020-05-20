@@ -29,11 +29,12 @@ Listing some of the ideas in mind. Each of these need to be expanded.
 10. international collaborations - TMT, LIGO, etc.
 11. [Links to PhD and PostDoc advertising](./pages/phd_postdoc_ad.md)
 12. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
-13. [Meetings](./pages/meetings.md) - conferences, workshops, schools and more.
+13. [Meetings](./pages/meetings.md) - conferences, workshops, schools, and more.
 14. internship opportunities
 15. outreach - astronomy for school children, public, etc.
 16. history of Indian Astronomy
 17. Other useful useful links - NYRIA, AAS register, RAS register, women in astronomy, acknowledgement generator, etc.
+
 
 More to follow...
 
