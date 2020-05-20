@@ -12,6 +12,9 @@ description:
 5. [Job Register by hyperspace@gu](https://hyperspace.uni-frankfurt.de/tag/phd/)
 6. [Job Register by The Astronomy Infrastructures Network](https://riastronomia.es/en/contratos-predoctorales/)
 7. To subscribe the [Royal Astronomical Society](https://ras.ac.uk/membership/RAS-job-list) job register mailing list.
+8. [Science Careers](https://jobs.sciencecareers.org)
+9. [Physics Today Jobs](https://www.aip.org/jobs/profiles/astronomy-astrophysics-jobs)
+10. [Physicaloxy](https://physicaloxy.com)
 
 More to follow . . .
 
