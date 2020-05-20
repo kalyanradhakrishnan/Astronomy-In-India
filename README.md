@@ -52,10 +52,6 @@ This list is in no way complete. We are updating this list to the best of our kn
 More to follow ...
 
 
-<div id="sfc12ej94m7dbm1wju9s7y1dqbl9s2b9557"></div>
-<script type="text/javascript" src="https://counter3.stat.ovh/private/counter.js?c=12ej94m7dbm1wju9s7y1dqbl9s2b9557&down=async" async></script>
-<noscript><a href="https://www.freecounterstat.com" title="hit counter"><img src="https://counter3.stat.ovh/private/freecounterstat.php?c=12ej94m7dbm1wju9s7y1dqbl9s2b9557" border="0" title="hit counter" alt="hit counter"></a></noscript>
-
 <!-- 
 # The Cayman theme
 
