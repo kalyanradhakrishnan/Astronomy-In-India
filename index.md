@@ -17,7 +17,7 @@ __Disclaimer__: We encourage the viewers to confirm the validity of the informat
 
 Listing some of the ideas in mind. Each of these need to be expanded and now they are not in any organized manner.
 
-# India
+### India
 1. [Astronomy Research institutes in India](./pages/institutes.md)
 2. Master programs
 3. PhD programs
@@ -33,13 +33,13 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 14. history of Indian Astronomy
 
 
-# General
+### General
 
 1. [PhD and PostDoc advertising](./pages/phd_postdoc_ad.md)
 2. [Meetings](./pages/meetings.md) - conferences, workshops, schools, and more.
 
 
-# Miscellaneous 
+### Miscellaneous 
 
 1. Other useful useful links - NYRIA, women in astronomy, acknowledgement generator, etc.
 2. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
