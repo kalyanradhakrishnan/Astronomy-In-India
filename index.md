@@ -15,25 +15,34 @@ __Disclaimer__: We encourage the viewers to confirm the validity of the informat
 
 ## Ideas
 
-Listing some of the ideas in mind. Each of these need to be expanded.
+Listing some of the ideas in mind. Each of these need to be expanded and now they are not in any organized manner.
 
-1. Master programs
-2. PhD programs
-3. PostDoc programs
-4. [Astronomy Research institutes in India](./pages/institutes.md)
+# India
+1. [Astronomy Research institutes in India](./pages/institutes.md)
+2. Master programs
+3. PhD programs
+4. PostDoc programs
 5. instrumentation in india - ground-based, space-based, x-ray, uv-, visible-, nir-, fir, radio-, solar, etc.
 6. space-missions - past, present, and future
 7. telescopes in india - optical, optical+infrared, radio, solar
 8. observing possibilities
 9. computational facilities
 10. international collaborations - TMT, LIGO, etc.
-11. [Links to PhD and PostDoc advertising](./pages/phd_postdoc_ad.md)
-12. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
-13. [Meetings](./pages/meetings.md) - conferences, workshops, schools, and more.
-14. internship opportunities
-15. outreach - astronomy for school children, public, etc.
-16. history of Indian Astronomy
-17. Other useful useful links - NYRIA, AAS register, RAS register, women in astronomy, acknowledgement generator, etc.
+12. internship opportunities
+13. outreach - astronomy for school children, public, etc.
+14. history of Indian Astronomy
+
+
+# General
+
+1. [PhD and PostDoc advertising](./pages/phd_postdoc_ad.md)
+2. [Meetings](./pages/meetings.md) - conferences, workshops, schools, and more.
+
+
+# Miscellaneous 
+
+1. Other useful useful links - NYRIA, women in astronomy, acknowledgement generator, etc.
+2. Where can I buy a telescope? How much will it cost? and what all I can see using the telescope?
 
 
 More to follow...
