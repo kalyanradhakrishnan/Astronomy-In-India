@@ -5,7 +5,7 @@ description: An information platform for Astronomy in India.
 ---
 # Welcome 
 
-We welcome you to 'Astronomy In India' website. The webpage aims to offer you with maximum information regarding Astronomy in India.
+We welcome you to 'Astronomy In India' website. The webpage aims to offer you with maximum information regarding Astronomy in India. Currently the website is under development and not organized in any specific manner. However, a work in progress.
 
 __Disclaimer__: This webpage started as a side project. We might not have confirmed the validity of all the information provided here. Therefore, we encourage users to check before using them. We will be happy if you can let us know if you find something which is untrue. 
 
