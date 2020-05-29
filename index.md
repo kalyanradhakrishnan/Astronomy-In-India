@@ -33,6 +33,14 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 1. [PhD, PostDoc, and other job ads](./pages/phd_postdoc_ad.md)
 2. [Meetings](./pages/meetings.md) - conferences, workshops, schools, and more.
 
+### Articles/Journals
+1. [NASA-ADS](https://ui.adsabs.harvard.edu) - modern form
+2. [NASA-ADS](https://ui.adsabs.harvard.edu/classic-form) - classic form
+3. [arXiv.org > astro-ph](https://arxiv.org/archive/astro-ph) - mirrors : [Germany](http://de.arxiv.org), [India](http://in.arxiv.org), [China](http://arxivsi.las.ac.cn/home.htm;jsessionid=824B7F9CED8C85D0B8C65ACE4384AFA3)
+4. [INSPIRE](https://inspirehep.net) - High-Energy Physics content
+5. 
+
+
 ### Tools
 
 1. [SAOImage DS9](https://sites.google.com/cfa.harvard.edu/saoimageds9/home) - An image display and visualization tool for astronomical data.
@@ -62,6 +70,8 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 2. [AstroBetter - Tips and Tricks for Professional Astronomers](https://www.astrobetter.com) 
 3. [Women In Astronomy](http://womeninastronomy.blogspot.com)
 4. [NYRIA - The Network of Young Researchers in Instrumentation for Astronomy](https://nyriastronomy.github.io/index.html)
+5. [ORCID](https://orcid.org) - Connecting research and researchers
+
 
 
 More to follow...
