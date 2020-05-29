@@ -76,3 +76,6 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 
 More to follow...
 
+
+
+<span class="site-footer-credits">This page generated using <a href="https://pages.github.com">GitHub Pages</a>.</span>
