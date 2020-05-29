@@ -17,6 +17,6 @@ description:
 6. [IIST](https://www.iist.ac.in/admissions/postgraduate/regular)
 7. [IISc](https://www.iisc.ac.in/admissions/m-tech-for-sponsored-candidates/)
 8. Most of the IITs, IISERs, and NISER have MSc Physics course where you may have astronmomy courses and possibility to do the master thesis in A&A.
-9. Some institutes conduct Integrated MSc(or MTech)-PhD programs. eg; TIFR, IIA, etc.
+9. Some institutes conduct Integrated MSc/MTech-PhD programs. eg; TIFR, IIA, etc.
 
 Go to [HomePage](./../index.md)
