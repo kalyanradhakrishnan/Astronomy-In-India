@@ -13,6 +13,6 @@ description:
 
 More to follow . . .
 
-back to [previous page](./phd_postdoc_ad.md)
+back to [previous page](./pages/phd_postdoc_ad.md)
 
 Go to [HomePage](./../index.md)
