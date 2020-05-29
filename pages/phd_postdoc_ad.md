@@ -5,7 +5,11 @@ description:
 ---
 # Links to PhD and Post-Doc Advertising 
 
-1. [AAS Job Register](https://jobregister.aas.org/) - Ads for PhD, PostDoc, and more.
+1. [PhD program at IUCAA](https://www.iucaa.in/Student-ProgrammesMain.html)
+2. [IUCAA-NCRA Graduate school](https://www.iucaa.in/Stu-Prog-IUCAA-NCRA-GraduateSchool.html)
+3. [Integrated MTech-PhD Programme at IIA](https://www.iiap.res.in/intmtech.html)
+4. [PhD program at IIA](https://www.iiap.res.in/opportunities/graduate) - guidelines can be seen [here](https://www.iiap.res.in/PhD2018_Sept/Guidelines).
+2. [AAS Job Register](https://jobregister.aas.org/) - Ads for PhD, PostDoc, and more.
 2. [Job Register by European Astronomical Society](https://eas.unige.ch/jobs.jsp)
 3. [Job Register by German Astronomical Society](http://www.astronomische-gesellschaft.org/en/activities/jobregister)
 4. [Job Register by INSPIRE collaboration](https://inspirehep.net/jobs?sort=mostrecent&size=25&page=1&q=&field_of_interest=astro-ph)
