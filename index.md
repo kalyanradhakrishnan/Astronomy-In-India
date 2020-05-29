@@ -15,7 +15,7 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 ### India
 1. [Astronomy Research institutes in India](./pages/institutes.md)
 2. Master programs
-3. PhD programs
+3. [PhD programs in India](./pages/phd_india.md)
 4. PostDoc programs
 5. instrumentation in india - ground-based, space-based, x-ray, uv-, visible-, nir-, fir, radio-, solar, etc.
 6. space-missions - past, present, and future
