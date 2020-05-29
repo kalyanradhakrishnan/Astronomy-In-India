@@ -15,6 +15,7 @@ description:
 8. [Science Careers](https://jobs.sciencecareers.org)
 9. [Physics Today Jobs](https://www.aip.org/jobs/profiles/astronomy-astrophysics-jobs)
 10. [Physicaloxy](https://physicaloxy.com)
+11. [Miscellaneous Offers](./miscellaneous_offers.md)
 
 More to follow . . .
 
