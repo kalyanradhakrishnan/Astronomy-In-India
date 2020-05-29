@@ -13,6 +13,6 @@ description:
 
 More to follow . . .
 
-[back](./)
+back to [previous page](./)
 
 Go to [HomePage](./../index.md)
