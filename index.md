@@ -77,4 +77,4 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 More to follow...
 
 
-This page generated using [GitHub Pages](https://pages.github.com).
+This site was built using [GitHub Pages](https://pages.github.com).
