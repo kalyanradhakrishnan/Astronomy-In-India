@@ -38,7 +38,7 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 2. [NASA-ADS](https://ui.adsabs.harvard.edu/classic-form) - classic form
 3. [arXiv.org > astro-ph](https://arxiv.org/archive/astro-ph) - mirrors : [Germany](http://de.arxiv.org), [India](http://in.arxiv.org), [China](http://arxivsi.las.ac.cn/home.htm;jsessionid=824B7F9CED8C85D0B8C65ACE4384AFA3)
 4. [INSPIRE](https://inspirehep.net) - High-Energy Physics content
-5. 
+5. [Wikipedia list of astronomy journals](https://en.wikipedia.org/wiki/List_of_astronomy_journals)
 
 
 ### Tools
