@@ -15,7 +15,7 @@ description:
 8. [Science Careers](https://jobs.sciencecareers.org)
 9. [Physics Today Jobs](https://www.aip.org/jobs/profiles/astronomy-astrophysics-jobs)
 10. [Physicaloxy](https://physicaloxy.com)
-11. [Job offers at Astronomical Society of India website](https://astron-soc.in/jobs)
+11. [Job offers by Astronomical Society of India](https://astron-soc.in/jobs)
 12. [Miscellaneous Offers](./miscellaneous_offers.md)
 
 More to follow . . .
