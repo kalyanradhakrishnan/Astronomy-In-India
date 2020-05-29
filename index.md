@@ -68,6 +68,9 @@ __Disclaimer__: This webpage started as a side project. We might not have confir
 3. [Women In Astronomy](http://womeninastronomy.blogspot.com)
 4. [NYRIA - The Network of Young Researchers in Instrumentation for Astronomy](https://nyriastronomy.github.io/index.html)
 5. [ORCID - Connecting research and researchers](https://orcid.org)
+6. [International Astronomical Union](https://www.iau.org)
+7. [Astronomical Society of India](https://astron-soc.in)
+8. [Bangalore Astronomical Society](http://bas.org.in)
 
 
 
