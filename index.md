@@ -22,7 +22,7 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 7. telescopes in india - optical, optical+infrared, radio, solar
 8. observing possibilities
 9. computational facilities
-10. international collaborations - TMT, LIGO, etc.
+10. [International Collaboration](./pages/india_int_collab.md)
 12. internship opportunities
 13. outreach - astronomy for school children, public, etc.
 14. history of Indian Astronomy
