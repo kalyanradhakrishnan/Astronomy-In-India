@@ -13,7 +13,7 @@ __Disclaimer__: This webpage started as a side project. We might not have confir
 1. [Astronomy research institutes in India](./pages/institutes.md)
 2. [Master programs in India](./pages/masters_india.md)
 3. [PhD programs in India](./pages/phd_india.md)
-4. PostDoc programs
+4. [PostDoc programs in India](./pages/postdoc_india.md)
 5. instrumentation in india - ground-based, space-based, x-ray, uv-, visible-, nir-, fir, radio-, solar, etc.
 6. space-missions - past, present, and future
 7. telescopes in india - optical, optical+infrared, radio, solar
