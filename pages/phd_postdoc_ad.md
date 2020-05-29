@@ -3,7 +3,7 @@ layout: default
 title: Astronomy In India
 description: 
 ---
-# Links to PhD and Post-Doc Advertising 
+# PhD and Post-Doc Advertising 
 
 ## In India
 1. [PhD program at IUCAA](https://www.iucaa.in/Student-ProgrammesMain.html)
