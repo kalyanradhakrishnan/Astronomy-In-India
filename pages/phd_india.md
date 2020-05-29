@@ -1,4 +1,10 @@
-## In India
+---
+layout: default
+title: Astronomy In India
+description: 
+---
+## PhD programs in India
+
 1. [PhD program at IUCAA](https://www.iucaa.in/Student-ProgrammesMain.html)
 2. [IUCAA-NCRA Graduate school](https://www.iucaa.in/Stu-Prog-IUCAA-NCRA-GraduateSchool.html)
 3. [Integrated MTech-PhD Programme at IIA](https://www.iiap.res.in/intmtech.html)
@@ -14,3 +20,6 @@
 13. [PhD program at HRI](http://www.hri.res.in/~physgradp/phd.html)
 14. [PhD program at CESSI](http://www.cessi.in/#Programs)
 15. [Job offers at Astronomical Society of India website](https://astron-soc.in/jobs)
+
+
+Go to [HomePage](./../index.md)
