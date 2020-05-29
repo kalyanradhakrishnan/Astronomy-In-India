@@ -22,7 +22,7 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 7. telescopes in india - optical, optical+infrared, radio, solar
 8. observing possibilities
 9. computational facilities
-10. [International Collaboration](./pages/india_int_collab.md)
+10. [International collaboration](./pages/india_int_collab.md)
 12. internship opportunities
 13. outreach - astronomy for school children, public, etc.
 14. history of Indian Astronomy
@@ -70,7 +70,7 @@ Listing some of the ideas in mind. Each of these need to be expanded and now the
 2. [AstroBetter - Tips and Tricks for Professional Astronomers](https://www.astrobetter.com) 
 3. [Women In Astronomy](http://womeninastronomy.blogspot.com)
 4. [NYRIA - The Network of Young Researchers in Instrumentation for Astronomy](https://nyriastronomy.github.io/index.html)
-5. [ORCID](https://orcid.org) - Connecting research and researchers
+5. [ORCID - Connecting research and researchers](https://orcid.org)
 
 
 
