@@ -13,7 +13,7 @@ __Disclaimer__: This webpage started as a side project. We might not have confir
 Listing some of the ideas in mind. Each of these need to be expanded and now they are not in any organized manner.
 
 ### India
-1. [Astronomy Research institutes in India](./pages/institutes.md)
+1. [Astronomy research institutes in India](./pages/institutes.md)
 2. Master programs
 3. [PhD programs in India](./pages/phd_india.md)
 4. PostDoc programs
