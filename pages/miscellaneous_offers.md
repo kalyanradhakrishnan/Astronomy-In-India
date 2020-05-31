@@ -17,6 +17,6 @@ description:
 1. [Postdoctoral Research Fellow in Transient Astronomy at Swinburne University](https://swinjobs.nga.net.au/cp/index.cfm?event=jobs.jati&returnToEvent=jobs.home&jobID=B82BB2BA-F558-CF46-E083-B6161EE1A5DA&audienceTypeCode=EXT&UseAudienceTypeLanguage=1) - Applications close on 30 June 2020
 More to follow . . .
 
-back to [previous page](./phd_postdoc_ad.md)
+Back to [previous page](./phd_postdoc_ad.md)
 
 Go to [HomePage](./../index.md)
