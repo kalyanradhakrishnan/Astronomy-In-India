@@ -16,7 +16,7 @@ __Disclaimer__: This webpage started as a side project. We might not have confir
 4. [PostDoc programs in India](./pages/postdoc_india.md)
 5. instrumentation in india - ground-based, space-based, x-ray, uv-, visible-, nir-, fir, radio-, solar, etc.
 6. space-missions - past, present, and future
-7. telescopes in india - optical, optical+infrared, radio, solar
+7. [Ground-Based Telescopes in India](./pages/telescopes_india.md)
 8. observing possibilities
 9. computational facilities
 10. [International collaboration](./pages/india_int_collab.md)
